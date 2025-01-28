@@ -1,5 +1,5 @@
 .venv/
+.idea/
 /users.json
 /.env
 /utils/logger.py
-.idea
